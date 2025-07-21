@@ -1,12 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧠 Pokédex App
 
-Currently, two official plugins are available:
+A sleek and responsive Pokédex built using React.js and integrated with the [PokéAPI](https://pokeapi.co/). Users can browse Pokémon, view their stats, types, and images — all fetched dynamically from the API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+> ⚠️ _This project was built by following a YouTube tutorial. While not an original concept, I coded everything myself, understood the logic, and used this project to strengthen my skills in React and API integration._
+---
 
-## Expanding the ESLint configuration
+## ⚡ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search Pokémon by name or ID
+- 📊 View detailed stats, abilities, and types
+- 🖼️ Dynamically fetched Pokémon images
+- 📱 Responsive design (Mobile + Desktop)
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Fetch API
+- CSS Modules(Fanta CSS)
+- PokéAPI
+
+---
+
+## 🌱 What I Learned
+
+- Working with public APIs (RESTful)
+
+- Managing state in React using hooks (useState, useEffect)
+
+- Error handling for async data
+
+- Responsive layout techniques
+
+---
